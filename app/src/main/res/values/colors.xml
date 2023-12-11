@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF000000</color>
+    <color name="primary">#FFFFFFFF</color>
+    <color name="secondary">#3C4142</color>
+    <color name="tertiary">#F27F0C</color>
+    <color name="quaternary">#808080</color>
+</resources>
